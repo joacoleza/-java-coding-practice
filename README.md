@@ -24,3 +24,4 @@ java {file-name}
 ## Problem List
 
 1. [Hello World](./01-hello-world/)
+1. [Sum of Array](./02-sum-array/)

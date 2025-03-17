@@ -10,3 +10,9 @@
 
 # Mac system files
 .DS_Store
+
+# Ignore Maven target folder where compiled artifacts and temporary files are stored
+**/target/
+
+# Ignore Maven wrapper files if you don't want to commit them
+.mvn/
