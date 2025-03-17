@@ -15,3 +15,4 @@ Simple Java coding problems for practice.
 1. [FizzBuzz](./04-fizzbuzz)
 1. [String Reverse](./05-reverse-string)
 1. [Count Vowels](./06-count-vowels)
+1. [API Demo](./07-api-demo)
