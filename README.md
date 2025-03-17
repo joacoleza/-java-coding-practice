@@ -9,6 +9,7 @@ Simple Java coding problems for practice.
 
 ## Problem List
 
-1. [Hello World](./01-hello-world/)
-1. [Sum of Array](./02-sum-array/)
-1. [Palindrome Check](./03-palindrome-check/)
+1. [Hello World](./01-hello-world)
+1. [Sum of Array](./02-sum-array)
+1. [Palindrome Check](./03-palindrome-check)
+1. [FizzBuzz](./04-fizzbuzz)
