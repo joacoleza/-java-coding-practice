@@ -14,7 +14,7 @@ This is a simple Java Maven project that contains a method to reverse a given st
 To run the program, execute the `main` method in the `ReverseString` class:
 
 ```bash
-mvn exec:java -Dexec.mainClass="ReverseString"
+mvn compile exec:java -Dexec.mainClass="ReverseString"
 ```
 
 ## 🧪 Run Tests

@@ -14,3 +14,4 @@ Simple Java coding problems for practice.
 1. [Palindrome Check](./03-palindrome-check)
 1. [FizzBuzz](./04-fizzbuzz)
 1. [String Reverse](./05-reverse-string)
+1. [Count Vowels](./06-count-vowels)
